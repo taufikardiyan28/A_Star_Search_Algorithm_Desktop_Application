@@ -6,7 +6,7 @@
 
 <p align=center>
 <b>
-A* Search Algorithm Python Final Project based on <a href=https://github.com/Vhanire/Python-A-star-search-algorithm>Vhanire/Python-A-star-search-algorithm</a>
+My 1st Desktop Appliction - A* Search Algorithm Python Final Project based on <a href=https://github.com/Vhanire/Python-A-star-search-algorithm>Vhanire/Python-A-star-search-algorithm</a>
  </b>
 </p>
 <br>
